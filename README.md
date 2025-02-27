@@ -8,6 +8,7 @@ I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions
 🔹 Exploring **Generative AI**, **Machine Learning**, and **Cloud Services**.  
 🔹 Love **optimizing workflows**, making tech more **accessible**, and **automating the boring stuff**.  
 
+<!--
 ---
 
 ## 📫 Connect with Me  
@@ -57,3 +58,4 @@ I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!** 🌟  
+->
