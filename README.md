@@ -1,6 +1,6 @@
 ## Hi there!!👋 Welcome to Hetav's Github profile.
 
-###  📊 Data Scientist | 🛠️ Engineer | 💡 Innovator | 💡 Student | 💡 Teacher
+###  📊 Data Scientist | 🛠️ Engineer | 💡 Innovator | 💡 Student | 💡 Data Analyst
 
 I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions, and automation**. I enjoy **solving complex problems** and building **efficient, scalable, and impactful** software solutions.  
 
