@@ -4,7 +4,7 @@
 
 I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions, and automation**. I enjoy **solving complex problems** and building **efficient, scalable, and impactful** software solutions.  
 
-🔹 Currently worked on **EfficienGPT** – a **quick-learning AI engine** that optimizes LLM outputs using the **Pareto Principle (80/20 Rule)**.  
+🔹 Currently working on **Langgraph** related projects and exploring the world of Agentic AI.
 🔹 Exploring **Generative AI**, **Machine Learning**, and **Cloud Services**.  
 🔹 Love **optimizing workflows**, making tech more **accessible**, and **automating the boring stuff**.  
 
