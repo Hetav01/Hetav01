@@ -12,7 +12,7 @@ I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions
 
 ## 📫 Connect with Me  
 
-🔗 **LinkedIn:** [Hetav Patel]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hetav-patel-a860b418b/))  
+🔗 **LinkedIn:** [Hetav Patel](https://www.linkedin.com/in/hetav-patel-a860b418b/)  
 📧 **Email:** hp9902@rit.edu    
 
 ---
