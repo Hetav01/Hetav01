@@ -4,8 +4,12 @@
 
 I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions, and automation**. I enjoy **solving complex problems** and building **efficient, scalable, and impactful** software solutions.  
 
+🔹 Currently working at **MicroEra Power, Inc.** as a Data Science and Engineering Intern developing data-driven solutions in the field of energy storage and consumption.
+
 🔹 Currently working on **Langgraph** related projects and exploring the world of Agentic AI.
+
 🔹 Exploring **Generative AI**, **Machine Learning**, and **Cloud Services**.  
+
 🔹 Love **optimizing workflows**, making tech more **accessible**, and **automating the boring stuff**.  
 
 ---
