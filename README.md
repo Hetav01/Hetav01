@@ -16,8 +16,9 @@ I'm a **passionate data enthusiast** focused on crafting **AI-driven, scalable, 
 
 ---
 
-🚀 Always experimenting. Always learning.  
-Let’s connect and build something impactful.
+**🚀 Always experimenting. Always learning.**
+
+**Let’s connect and build something impactful.**
 
 ---
 
