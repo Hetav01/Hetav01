@@ -30,7 +30,9 @@ I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions
 **📦 Databases & Cloud:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
+---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hetav01&show_icons=true&theme=tokyonight)
 
 ---
 
