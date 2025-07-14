@@ -2,15 +2,22 @@
 
 ###  📊 Data Scientist | 🛠️ Engineer | 💡 Innovator | 💡 Student | 💡 Data Analyst
 
-I'm a **passionate data enthusiast** with a love for **AI, data-driven solutions, and automation**. I enjoy **solving complex problems** and building **efficient, scalable, and impactful** software solutions.  
+I'm a **passionate data enthusiast** focused on crafting **AI-driven, scalable, and automation-friendly solutions** that solve real-world problems.
 
-🔹 Currently working at **MicroEra Power, Inc.** as a Data Science and Engineering Intern developing data-driven solutions in the field of energy storage and consumption.
+🔹 Currently working at **MicroEra Power** as a **Data Science & Engineering Intern**, building data pipelines, modeling energy usage patterns, and contributing to tools that support thermal energy storage systems.
 
-🔹 Currently working on **Langgraph** related projects and exploring the world of Agentic AI.
+🔹 Actively developing **Agentic AI workflows** using **LangGraph**, **LangChain**, and **OpenAI's Agent SDK** — pushing the boundaries of intelligent automation.
 
-🔹 Exploring **Generative AI**, **Machine Learning**, and **Cloud Services**.  
+🔹 Deep diving into **Generative AI**, **Explainable Machine Learning**, and **LLM-based systems** for research and production.
 
-🔹 Love **optimizing workflows**, making tech more **accessible**, and **automating the boring stuff**.  
+🔹 Leveraging tools like **FastAPI**, **React.js**, **Ollama**, **AWS**, and **Docker** for rapid prototyping and deployment.
+
+🔹 Strong advocate for **workflow optimization**, **automating the boring stuff**, and making **data science more usable and interpretable**.
+
+---
+
+🚀 Always experimenting. Always learning.  
+Let’s connect and build something impactful.
 
 ---
 
