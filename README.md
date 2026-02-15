@@ -1,5 +1,7 @@
 ## Hi there!!👋 Welcome to Hetav's Github profile.
 
+## Check me out: [hetav.net](https://hetav.net)
+
 ###  AI | Cloud | Data | MLOps
 
 I'm a **passionate data enthusiast** focused on crafting **AI-driven, scalable, and automation-friendly solutions** that solve real-world problems.
